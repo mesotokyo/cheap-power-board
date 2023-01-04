@@ -31,7 +31,7 @@ R2	2k	Resistors_SMD:R_0805_HandSoldering
 R3	4.7k	Resistors_SMD:R_0805_HandSoldering
 SW1	SWITCH_INV	TOGGLE_SW:SW-1MS1
 U1	CC10-1212SF-E	TDK-Lambda-CCx:CC6-1212SF-E
-U2	NJM2396	TO_SOT_Packages_THT:TO-220-4_Vertical
+U2	NJM2396F12	TO_SOT_Packages_THT:TO-220-4_Vertical
 U3	LM7805CT	TDK-Lambda-CCx:ROHM-BP5293
 
 Note 1: It is recommended to use capaciters with a rated voltage of 16V or higher.

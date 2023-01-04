@@ -8,6 +8,7 @@ Cheap, compact power supply board for Eurorack modular.
 
 This schematic and PCB data uses mst-kicad-lib: https://github.com/mesotokyo/mst-kicad-lib
 
+![building example](https://github.com/mesotokyo/cheap-power-board/raw/master/figs/example.jpg "building example")
 ![schematic image](https://github.com/mesotokyo/cheap-power-board/raw/master/figs/schematic.png "schematic image")
 ![PCB image](https://github.com/mesotokyo/cheap-power-board/raw/master/figs/pcb.png "PCB image")
 
@@ -22,7 +23,7 @@ Please check [BOM.txt](BOM.txt).
  * The triple pads with rectangle near the center of the board is for U3 (right side of F1). The leftmost pad is for Vout.
    - If you use 7805 type voltage regulator, the leftmost pad is for pin 1.
  * The P3 is jumpmer pin. You can enable 5V output by shorting these pins.
- * The holes on each side can be used to mount the board. The hole spacing matches this PCB terminal [PCB-54L](https://akizukidenshi.com/catalog/g/gC-12218/) and [PCB-54R](https://akizukidenshi.com/catalog/g/gC-12219/].
+ * The holes on each side can be used to mount the board. The hole spacing matches this PCB terminal [PCB-54L](https://akizukidenshi.com/catalog/g/gC-12218/) and [PCB-54R](https://akizukidenshi.com/catalog/g/gC-12219/).
 
 ## LICENSE
 
